@@ -1,0 +1,15 @@
+{
+  "name": "goof",
+  "version": "1.0.1",
+  "description": "A vulnerable todo demo application! No vulns",
+  "homepage": "https://snyk.io/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Snyk/snyk-todo-list-demo-app/"
+  },
+  "scripts": {
+    "dev": "nodemon ./app.js"
+  },
+  "dependencies": {},
+  "license": "Apache-2.0"
+}
