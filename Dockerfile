@@ -10,5 +10,5 @@ RUN npm update
 RUN npm install
 RUN npm -v
 EXPOSE 3001
-EXPOSE 9229
+EXPOSE 9228
 ENTRYPOINT ["npm", "start"]
